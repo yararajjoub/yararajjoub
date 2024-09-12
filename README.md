@@ -4,7 +4,7 @@
 # Hi there, I'm Yara <img src="https://github.com/yararajjoub/yararajjoub/assets/99145918/5e4bb1ed-3193-417f-81d5-afc4dbd5a8ab" alt="216120981-b9507c36-0e04-4469-8e27-c99271b45ba5" width="33" height="33">
 
 
-## I'm a software developer student at Malmo University, in Sweden <img src="https://github.com/yararajjoub/yararajjoub/assets/99145918/b73e8f44-8c02-4b86-8d57-a8903207b043" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" width="33" height="33">
+## I'm a junior software developer in Sweden <img src="https://github.com/yararajjoub/yararajjoub/assets/99145918/b73e8f44-8c02-4b86-8d57-a8903207b043" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" width="33" height="33">
 
 
 ![248884004-af212da4-8588-4d7c-8400-16e56f2746a0](https://github.com/yararajjoub/yararajjoub/assets/99145918/29239f57-2682-4edd-9aee-b3e6809230f2)
