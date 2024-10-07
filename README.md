@@ -10,6 +10,7 @@
 ![248884004-af212da4-8588-4d7c-8400-16e56f2746a0](https://github.com/yararajjoub/yararajjoub/assets/99145918/29239f57-2682-4edd-9aee-b3e6809230f2)
 
 <br />
+[![](https://visitcount.itsvg.in/api?id=yararajjoub&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in) 
 
 # 📫 How to reach me:
 <a href="https://yararajjoub.github.io/My_Portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Yara | Portfolio" width="22" height="22" /></a>
